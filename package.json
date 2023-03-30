@@ -1,6 +1,6 @@
 {
-  "name": "@uniswap/universal-router-sdk",
-  "version": "1.3.6",
+  "name": "@xswap-v3/universal-router-sdk",
+  "version": "0.0.1",
   "description": "sdk for integrating with the Universal Router contracts",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -58,10 +58,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Uniswap/universal-router-sdk.git"
-  },
-  "bugs": {
-    "url": "https://github.com/Uniswap/universal-router-sdk/issues"
-  },
-  "homepage": "https://github.com/Uniswap/universal-router-sdk#readme"
+    "url": "https://github.com/sotatek-dev/xswap-univesal-router-sdk.git"
+  }
 }
