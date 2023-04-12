@@ -49,9 +49,9 @@
   "dependencies": {
     "@uniswap/universal-router": "1.2.1",
     "@uniswap/permit2-sdk": "^1.2.0",
-    "@uniswap/router-sdk": "^1.4.0",
+    "@xswap-v3/router-sdk": "0.0.1",
     "@uniswap/sdk-core": "^3.1.0",
-    "@uniswap/v2-sdk": "^3.0.1",
+    "@xswap-v3/v2-sdk": "0.0.2",
     "@uniswap/v3-sdk": "^3.9.0",
     "bignumber.js": "^9.0.2",
     "ethers": "^5.3.1"

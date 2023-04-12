@@ -3,7 +3,7 @@ import { abi } from '@uniswap/universal-router/artifacts/contracts/UniversalRout
 import { Interface } from '@ethersproject/abi'
 import { BigNumber, BigNumberish } from 'ethers'
 import { MethodParameters } from '@uniswap/v3-sdk'
-import { Trade as RouterTrade } from '@uniswap/router-sdk'
+import { Trade as RouterTrade } from '@xswap-v3/router-sdk'
 import { Currency, TradeType } from '@uniswap/sdk-core'
 import { Command, RouterTradeType } from './entities/Command'
 import { NFTTrade, SupportedProtocolsData } from './entities/NFTTrade'
