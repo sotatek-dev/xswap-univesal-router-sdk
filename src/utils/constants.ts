@@ -7,7 +7,7 @@ export const UNIVERSAL_ROUTER_ADDRESS = (chainId: number): string => {
     case 5: // goerli
       return '0x27Daf3f78fCdE43E40E4F3F144FEbc856f7352F8'
     case 50:
-      return '0x2c93805a755a5fcad54666cd3cc780e32260427f'
+      return '0xc20e80aa56aafefb1607c1a2f789631164a639fb'
     case 51:
       return '0x2c93805a755a5fcad54666cd3cc780e32260427f'
     case 137: // polygon
