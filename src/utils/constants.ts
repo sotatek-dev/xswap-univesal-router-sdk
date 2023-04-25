@@ -38,7 +38,7 @@ export const WETH_ADDRESS = (chainId: number): string => {
     case 5: // goerli
       return '0xb4fbf271143f4fbf7b91a5ded31805e42b2208d6'
     case 50:
-      return '0x2a5c77b016Df1b3b0AE4E79a68F8adF64Ee741ba'
+      return '0x951857744785E80e2De051c32EE7b25f9c458C42'
     case 51:
       return '0x2a5c77b016Df1b3b0AE4E79a68F8adF64Ee741ba'
     case 137: // polygon
