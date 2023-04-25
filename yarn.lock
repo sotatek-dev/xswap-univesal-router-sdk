@@ -2341,29 +2341,29 @@
     "@uniswap/v3-core" "1.0.0"
     "@uniswap/v3-periphery" "^1.0.1"
 
-"@xswap-v3/permit2-sdk@0.0.4":
-  version "0.0.4"
-  resolved "https://registry.yarnpkg.com/@xswap-v3/permit2-sdk/-/permit2-sdk-0.0.4.tgz#3bb2a5b2e123cae41ba5d2a2acc23458b9ac1bc1"
-  integrity sha512-ht/YSBshgzRxXn4/Npl7JkfPLWNqhtGC8eKYI2+y4027qHzJh6K8Zb1FInHs5KrsuAZM6hmSHA5kZ2rTth2VVA==
+"@xswap-v3/permit2-sdk@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@xswap-v3/permit2-sdk/-/permit2-sdk-1.0.0.tgz#7007923d05cfb329e431202ca9b3e2fb963a6e76"
+  integrity sha512-usln1M3Jv30cPluLnEZRaGo4WpPQP0Kq7lI2Uhs4D/CR+dQvIce2U4VZ/ogAPqtYYoAGSrKQjXSPAgNhH9AgpQ==
   dependencies:
     ethers "^5.3.1"
     tiny-invariant "^1.3.1"
 
-"@xswap-v3/router-sdk@0.0.1":
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/@xswap-v3/router-sdk/-/router-sdk-0.0.1.tgz#be2e6ff814b3165706c4b3e73a5b7bd3b16c4663"
-  integrity sha512-O5WXvi747HIbDfUuDz4XOQO5UxSXVb9/AyhidFp5MdVJt4hTJltJFCvxZwUrkTM3gYFAcBLaBFdbufCupFYqDQ==
+"@xswap-v3/router-sdk@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@xswap-v3/router-sdk/-/router-sdk-1.0.0.tgz#3683bfa920cbc83673b251efccf19ca079439edb"
+  integrity sha512-6/1Z4oP2zYinhaVfyhARioRhvNLJaYEH1IO5tmeiBF/mQF7/ee8HP59aFzJyMbKVfxHXRtaeVajqUPslyo886Q==
   dependencies:
     "@ethersproject/abi" "^5.5.0"
     "@uniswap/sdk-core" "^3.0.1"
     "@uniswap/swap-router-contracts" "1.1.0"
     "@uniswap/v3-sdk" "^3.8.3"
-    "@xswap-v3/v2-sdk" "0.0.2"
+    "@xswap-v3/v2-sdk" "^1.0.1"
 
-"@xswap-v3/v2-sdk@0.0.2":
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/@xswap-v3/v2-sdk/-/v2-sdk-0.0.2.tgz#448c1b286432dcedd44239823470b36cfe405efd"
-  integrity sha512-rCKiv4GhRqJbzh/uEuokdaVqFMSFb4MIhPDOJVPjOC4dBxSGGIMgFh/lIW2ndhs5k9axIYdNYq+BHB/084e+pw==
+"@xswap-v3/v2-sdk@^1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@xswap-v3/v2-sdk/-/v2-sdk-1.0.1.tgz#1739f8329d42e8f39857c7d6aaa2b205f670dfa4"
+  integrity sha512-sGsltFHMmSHBYld2okWfkv/UN3EIYoZ9T0eDDhu5z0Y3s9q2I1AhzyDh3f96w92glfyTunlsZcK6wtKjS1WeMw==
   dependencies:
     "@ethersproject/address" "^5.0.0"
     "@ethersproject/solidity" "^5.0.0"
