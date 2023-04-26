@@ -1,5 +1,5 @@
 import { ethers } from 'ethers'
-import { PermitSingle } from '@uniswap/permit2-sdk'
+import { PermitSingle } from '@xswap-v3/permit2-sdk'
 import { CommandType, RoutePlanner } from './routerCommands'
 
 export interface Permit2Permit extends PermitSingle {

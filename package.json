@@ -48,16 +48,16 @@
   },
   "dependencies": {
     "@uniswap/universal-router": "1.2.1",
-    "@xswap-v3/permit2-sdk": "0.0.4",
-    "@xswap-v3/router-sdk": "0.0.1",
+    "@xswap-v3/permit2-sdk": "1.0.0",
+    "@xswap-v3/router-sdk": "1.0.1",
     "@uniswap/sdk-core": "^3.1.0",
-    "@xswap-v3/v2-sdk": "0.0.2",
+    "@xswap-v3/v2-sdk": "1.0.2",
     "@uniswap/v3-sdk": "^3.9.0",
     "bignumber.js": "^9.0.2",
     "ethers": "^5.3.1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sotatek-dev/xswap-univesal-router-sdk.git"
+    "url": "https://github.com/x-swap-protocol/v3-univesal-router-sdk.git"
   }
 }

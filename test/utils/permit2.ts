@@ -1,8 +1,7 @@
 import { ethers, Wallet } from 'ethers'
-import { AllowanceTransfer, PermitSingle } from '@uniswap/permit2-sdk'
+import { AllowanceTransfer, PermitSingle } from '@xswap-v3/permit2-sdk'
 import { Permit2Permit } from '../../src/utils/permit2'
 import { PERMIT2_ADDRESS, ROUTER_ADDRESS } from './addresses'
-import { ethers } from 'ethers'
 
 const TEST_DEADLINE = '3000000000000'
 
