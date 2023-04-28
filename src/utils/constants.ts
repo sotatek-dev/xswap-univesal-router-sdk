@@ -7,9 +7,9 @@ export const UNIVERSAL_ROUTER_ADDRESS = (chainId: number): string => {
     case 5: // goerli
       return '0x27Daf3f78fCdE43E40E4F3F144FEbc856f7352F8'
     case 50:
-      return '0xc20e80aa56aafefb1607c1a2f789631164a639fb'
+      return '0xe1bcb1c502a545ee85a1881b95cdd46d394d2b2e'
     case 51:
-      return '0x2c93805a755a5fcad54666cd3cc780e32260427f'
+      return '0x0b75e71f2ae40118543bf6289e09c0b25071f509'
     case 137: // polygon
       return '0x4C60051384bd2d3C01bfc845Cf5F4b44bcbE9de5'
     case 80001: // polygon mumbai
@@ -58,7 +58,7 @@ export const WETH_ADDRESS = (chainId: number): string => {
   }
 }
 
-export const PERMIT2_ADDRESS = '0x47ba98846e22340329576259c3b67a61ea2af509'
+export const PERMIT2_ADDRESS = '0x941acf4e2df51bf43c3c4167631dbefa268bc9d7'
 
 export const CONTRACT_BALANCE = BigNumber.from(2).pow(255)
 export const ETH_ADDRESS = '0x0000000000000000000000000000000000000000'
