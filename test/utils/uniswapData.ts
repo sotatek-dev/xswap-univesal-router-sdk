@@ -15,7 +15,7 @@ import { SwapOptions } from '../../src'
 import { CurrencyAmount, TradeType, Ether, Token, Percent, Currency } from '@uniswap/sdk-core'
 import IUniswapV3Pool from '@uniswap/v3-core/artifacts/contracts/UniswapV3Pool.sol/UniswapV3Pool.json'
 
-const V2_FACTORY = '0x5C69bEe701ef814a2B6a3EDD4B1652CB9cc5aA6f'
+const V2_FACTORY = '0x347D14b13a68457186b2450bb2a6c2Fd7B38352f'
 const V2_ABI = [
   {
     constant: true,
